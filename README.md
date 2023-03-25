@@ -13,4 +13,4 @@
 
 Планируются дополнительные доработки (после финализации).
 
-Ссылка на GitHub проекта: https://github.com/IvaSofik/russian-travel/tree/main
+Ссылка на GitHub проекта: https://IvaSofik.github.io/russian-travel/

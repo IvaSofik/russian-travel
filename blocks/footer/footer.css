@@ -6,7 +6,7 @@
   flex-direction: row;
   justify-content: space-between;
   padding-top: 92px;
-  /*padding-bottom: 24px;*/
+  padding-bottom: 24px;
   width: calc(100% - (16px + 118px));
   box-sizing: border-box;
 }
@@ -21,6 +21,7 @@
   .footer {
       flex-direction: row;
       margin: 0;
+      margin-right: 24px;
       width: calc(100% - 24px * 2);
       max-width: 720px;
   }
