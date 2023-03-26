@@ -1,29 +1,26 @@
 .intro {
-  margin: 0;
-  padding-top: 92px;
-  display: flex;
-  flex-direction: column;
-  max-width: 984px;
-  align-items: baseline;
+      margin: 0;
+      padding: 92px 148px 0;
+      display: flex;
+      flex-direction: column;
+      max-width: 984px;
+      align-items: flex-start;
 }
 @media screen and (max-width: 1024px) {
   .intro {
-      padding-left: 48px;
-      margin: 0;
+      padding: 88px 48px 0;
   }
 }
 
 @media screen and (max-width: 768px) {
   .intro {
-      padding-top: 88px;
-      padding-left: 24px;
-      padding-right: 24px;
+      padding: 88px 24px 0;
   }
 }
 
 @media screen and (max-width: 320px) {
   .intro {
       margin: 64px 16px 0;
-      padding: 0;
   }
 }
+
